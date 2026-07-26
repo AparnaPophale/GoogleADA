@@ -64,7 +64,9 @@ Capstone_Project/
 ├── requirements.txt                                 # Project dependencies
 └── README.md                                        # Project documentation
 
+```
 ---
+
 ## 🛠️ Machine Learning Models Summary
 
 | Model | Precision | Recall | F1-Score | Accuracy | AUC-ROC |
@@ -85,6 +87,8 @@ Capstone_Project/
 
 - Python 3.12+
 - Jupyter Notebook or JupyterLab
+
+---
 
 ## Installation
 
