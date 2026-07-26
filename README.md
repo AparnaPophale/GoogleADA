@@ -83,7 +83,7 @@ Capstone_Project/
 
 ---
 
-# 🚀 Getting Started
+## 🚀 Getting Started
 
 ## Prerequisites
 
@@ -115,7 +115,7 @@ jupyter notebook notebooks/HR_DataAnalysis.ipynb
 
 ---
 
-# 💡 HR Recommendations
+## 💡 HR Recommendations
 
 Based on the analysis and machine learning results:
 
