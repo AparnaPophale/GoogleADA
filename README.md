@@ -2,6 +2,8 @@
 
 > **Google Advanced Data Analytics Professional Certificate (Coursera)**  
 > *Capstone Project*
+> <img width="1264" height="1264" alt="image" src="https://github.com/user-attachments/assets/2eb9dd60-e2f1-4ac2-8ed4-da7d7e83756c" />
+
 
 ---
 
